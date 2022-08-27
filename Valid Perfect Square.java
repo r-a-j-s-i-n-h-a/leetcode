@@ -1,5 +1,5 @@
 class Solution {
-    public boolean isPerfectSquare(int num) {
+    public boolean   isPerfectSquare(int num) {
         long low = 1;
         long high = num;
         while(low<=high){
